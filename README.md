@@ -1,2 +1,2 @@
 # Analog_Clock_project
-Code for Analog clock 
+Made an Analog Clock Design using HTML and CSS and running part is made from Javascript
